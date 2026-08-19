@@ -65,7 +65,7 @@ The Sales Overview page provides a high-level summary of the retail business.
 
 ### Dashboard Preview
 
-![Sales Overview](Sales_Overview.png)
+![Sales Overview](Sales_Overview.png.png)
 
 ---
 
@@ -83,7 +83,7 @@ This page analyzes sales performance across different sales channels.
 
 ### Dashboard Preview
 
-![Sales Channel Performance](Sales_Channel_Performance.png)
+![Sales Channel Performance](Sales_Channel_Performance.png.png)
 
 ---
 
@@ -102,7 +102,7 @@ This page focuses on product and category-level performance.
 
 ### Dashboard Preview
 
-![Product Analysis](Product_Analysis.png)
+![Product Analysis](Product_Analysis.png.png)
 
 ---
 
