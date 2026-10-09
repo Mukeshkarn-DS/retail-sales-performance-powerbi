@@ -1,6 +1,6 @@
 # 📊 Retail Sales Performance & Insights Dashboard
 
-## 📌 Project Overview
+## 📌 About
 
 This project is an interactive **Retail Sales Performance & Insights Dashboard** developed using **Microsoft Power BI**.
 
